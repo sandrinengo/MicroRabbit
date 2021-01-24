@@ -7,3 +7,12 @@ D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CopyComplete
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb

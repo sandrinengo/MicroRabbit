@@ -72,6 +72,29 @@
           "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
         }
       },
+      "MicroRabbit.Banking.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Banking.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Banking.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Banking.Application.dll": {}
+        }
+      },
+      "MicroRabbit.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        }
+      },
       "MicroRabbit.Domain.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -263,6 +286,16 @@
         "version.txt"
       ]
     },
+    "MicroRabbit.Banking.Application/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+      "msbuildProject": "../MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj"
+    },
+    "MicroRabbit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+    },
     "MicroRabbit.Domain.Core/1.0.0": {
       "type": "project",
       "path": "../MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
@@ -276,6 +309,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MicroRabbit.Banking.Application >= 1.0.0",
+      "MicroRabbit.Domain.Core >= 1.0.0",
       "MicroRabbit.Infra.Bus >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 5.0.1"
     ]
@@ -314,6 +349,12 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+              "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
+            },
+            "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+              "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+            },
             "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
               "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
             }
