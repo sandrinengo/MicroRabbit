@@ -16,3 +16,5 @@ D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
