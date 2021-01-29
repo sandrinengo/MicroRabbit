@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "R6AdmatgSE/8gjxknb2Y+Z3lEQV4TbtSdFT+1QDHVz72n1Vj8bSuhyZeyhQpUoSUouSotTOLXfygmwqQKGVR9A==",
+  "dgSpecHash": "eariuO5QmLRqQtHyslNN0RxZjfVgAdLbNI6aLjVQUEWuNI7SGy4OBLfVh6UO6rTqG8w0UEf16VRfqn5NW6/bLQ==",
   "success": true,
   "projectFilePath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HieuNgo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

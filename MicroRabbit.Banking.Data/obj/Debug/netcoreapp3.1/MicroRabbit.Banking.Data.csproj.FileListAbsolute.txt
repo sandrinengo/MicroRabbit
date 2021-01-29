@@ -13,3 +13,5 @@ D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Deb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

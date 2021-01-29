@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tdSUVoTC3lBkdzMZ3RrRAzamO7HwFjV8gxgcc35aENP9ViAjej+IQqBqyd07Qhs7vOl1VmP2mHMVdnn+vqLAfA==",
+  "dgSpecHash": "kAbG2NmgiL4Y6H7pBtRgOYnnklDiT4eASXmX68Kaqdc/6kHxeR37LB9JKhoWYs45gF7rspHBuRQP+SPZ6v6A3w==",
   "success": true,
   "projectFilePath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [
