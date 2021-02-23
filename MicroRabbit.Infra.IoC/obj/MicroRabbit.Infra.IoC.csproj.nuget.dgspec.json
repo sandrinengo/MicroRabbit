@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -148,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -211,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -277,7 +277,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -330,6 +330,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -355,7 +359,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -399,6 +403,15 @@
               },
               "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
                 "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
+              },
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj"
+              },
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj"
+              },
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
               }
             }
           }
@@ -433,7 +446,221 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "projectName": "MicroRabbit.Transfer.Application",
+        "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "packagesPath": "C:\\Users\\HieuNgo\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HieuNgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              },
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+        "projectName": "MicroRabbit.Transfer.Data",
+        "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj",
+        "packagesPath": "C:\\Users\\HieuNgo\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HieuNgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+        "projectName": "MicroRabbit.Transfer.Domain",
+        "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+        "packagesPath": "C:\\Users\\HieuNgo\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Transfer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HieuNgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

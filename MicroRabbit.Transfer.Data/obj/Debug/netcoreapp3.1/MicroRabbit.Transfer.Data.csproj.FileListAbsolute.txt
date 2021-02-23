@@ -1,9 +1,17 @@
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.deps.json
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.runtimeconfig.json
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.runtimeconfig.dev.json
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.AssemblyInfo.cs
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.csproj.CopyComplete
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.genruntimeconfig.cache
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

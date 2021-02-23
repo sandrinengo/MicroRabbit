@@ -4,7 +4,9 @@ D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Deb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfo.cs
@@ -13,5 +15,3 @@ D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Deb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache
-D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
-D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GX+nlj3mPvPb1QBjebhYIPtIpgdOAzFLxW6mFEw5t4+rY/3u5FYYVT53UoXrPv6Ct/jwAAlOZUNFbP400E49Ww==",
+  "dgSpecHash": "889bUyTpg86WiDk1brBKAc7vPMpFUnz2KZ4mez4119O/UQhBBuenlDZFvn9z14ale3gCODArtrBEKU8fNlIL3w==",
   "success": true,
   "projectFilePath": "D:\\Study\\Tutorials\\NetCore\\Projects\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HieuNgo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\HieuNgo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\HieuNgo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\HieuNgo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\HieuNgo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",

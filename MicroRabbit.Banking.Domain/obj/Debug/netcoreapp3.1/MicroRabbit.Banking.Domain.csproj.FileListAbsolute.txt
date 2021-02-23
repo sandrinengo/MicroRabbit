@@ -1,12 +1,12 @@
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.deps.json
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfo.cs
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CopyComplete
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
 D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
-D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
-D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
-D:\Study\Tutorials\NetCore\Projects\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CopyComplete
